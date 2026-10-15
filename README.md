@@ -1,11 +1,21 @@
-<h1>Sílvio Netto</h1>
+# Hi, I'm Sílvio Netto
 
-<h3>DevOps Engineer</h3>
+### DevOps Engineer | AI & Developer Tooling
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&link=https://github.com/silvionetto/)](https://github.com/silvionetto/)
-[![DockerHub](https://img.shields.io/badge/-DockerHub-333333?style=flat&logo=docker&link=https://hub.docker.com/u/silvionetto)](https://hub.docker.com/u/silvionetto)
+I build and explore practical tools across AI, software development, and DevOps—from finance applications to Rust-based developer tools and Copilot extensions.
 
-<h3>Here to find me</h3>
+**Technologies in my projects**
 
-[![Linkedin: Sílvio Netto](https://img.shields.io/badge/-silvionetto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvio-netto-213b9722/)](https://www.linkedin.com/in/silvio-netto-213b9722/)
-[![Gmail Badge](https://img.shields.io/badge/-silvio.netto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvio.netto@gmail.com)](mailto:silvio.netto@gmail.com)
+`Java` · `Kotlin` · `Rust` · `TypeScript` · `Docker` · `Azure Bicep` · `GitHub Copilot`
+
+## Featured projects
+
+- [**Finance**](https://github.com/silvionetto/finance) — An AI agent for finance, built with Java.
+- [**Tupi**](https://github.com/silvionetto/tupi) — AI tools dependency management, built with Rust and TypeScript.
+- [**AI Squad for Copilot CLI**](https://github.com/silvionetto/sn-copilot-plugin) — A Copilot CLI plugin with specialized agents and optional shared skills.
+- [**Monthly Budget**](https://github.com/silvionetto/budget) — A monthly budgeting app built with Kotlin.
+- [**Copilot GUI**](https://github.com/silvionetto/copilot-gui) — A Java Swing interface for Copilot.
+
+## Find me
+
+[GitHub](https://github.com/silvionetto/) · [Docker Hub](https://hub.docker.com/u/silvionetto) · [LinkedIn](https://www.linkedin.com/in/silvio-netto-213b9722/) · [Email](mailto:silvio.netto@gmail.com)
